@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "miPortafolio"
+    }
+  },
+  "defaultProject": "miPortafolio",
+  "cli": {
+    "analytics": false
+  }
 }
